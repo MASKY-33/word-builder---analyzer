@@ -21,4 +21,8 @@ The program will then display all analysis results.
 
 ## Learning Purpose
 This project was created as part of my backend engineering practice.  
-The goal was to improve my skills in Python loops, list operations, string methods, and basic text analysis.
+The goal was to improve my skills in Python: 
+- loops
+- list operations
+- string methods
+- basic text analysis.
