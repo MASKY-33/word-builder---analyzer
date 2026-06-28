@@ -1,11 +1,10 @@
 # This Program:
-
-# checks if a word == "STOP". If yes, it stops the repitition, if no, it keeps going again until word == "STOP"
-# It searches for the longest and shortest word in the list
-# Counts the number of words inside the list
-# It prints out the first and last word of the list
-# Makes all letters from all words in UPPERCASE letters
-# Makes all letters of words reversed
+# - checks if a word == "STOP". If yes, it stops the repitition, if no, it keeps going again until word == "STOP"
+# - It searches for the longest and shortest word in the list
+# - Counts the number of words inside the list
+# - It prints out the first and last word of the list
+# - Makes all letters from all words in UPPERCASE letters
+# - Makes all letters of words reversed
 
 
 
